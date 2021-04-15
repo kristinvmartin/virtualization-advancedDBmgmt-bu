@@ -1,0 +1,8 @@
+# virtualization-advancedDBmgmt-bu
+
+These are the project files associated with the final term project for Advanced Database Management at Boston University.  This project offers a proof of concept for the use of a data virtualization server when running a query comparing large datasets, in this case, a query returning WIC vendors within a certain radius of an inputted zip code.  The goal was to determine if a well-tuned query in SQL Server could function as well as a query run from connecting a database with JDBC and connecting datasets with an API through the virtualization server offered by Denodo Technologies.
+
+The full project submission as well as a recording of the project presentation are in the .docx and .mp4 files in this repository.
+
+# Conclusions & Findings
+This analysis sought to illustrate that, with data virtualization, ChMS clients would be able to access external data sources to facilitate access to community resources in a more efficient manner than in its current application environment.  Although this implementation was merely a “proof of concept,” the research presented and evidence brought suggested that Denodo, or more generally data virtualization, offers an efficient option for business users that have increasingly complex and unmanageable data architectures.  This implementation would likely benefit from more extensive testing with more big data oriented sources to determine if it would actually present a benefit for the ChMS user group.  In conclusion, as we continue to see rising complexity of data architectures, data virtualization will pay an increasingly vital role in ensuring users can meet their data needs.
