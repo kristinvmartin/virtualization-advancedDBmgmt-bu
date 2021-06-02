@@ -1,6 +1,6 @@
 # virtualization-advancedDBmgmt-bu
 
-These are the project files associated with the final term project for Advanced Database Management at Boston University.  This project offers a proof of concept for the use of a data virtualization server when running a query comparing large datasets, in this case, a query returning WIC vendors within a certain radius of an inputted zip code.  The goal was to determine if a well-tuned query in SQL Server could function as well as a query run from connecting a database with JDBC and connecting datasets with an API through the virtualization server offered by Denodo Technologies.
+These are the project files associated with the final term project for Advanced Database Management at Boston University.  This project offers a proof of concept for the use of a data virtualization server when running a query comparing large datasets, in this case, a query returning WIC vendors within a certain radius of an inputted zip code.  The goal was to determine if a well-tuned query in SQL Server could function as well as a query run from connecting a database with JDBC and connecting datasets with an API through the virtualization server offered by Denodo Technologies.  Of note is the WIC_Query file, which illustrates my query-writing and tuning abilities.
 
 The full project submission as well as a recording of the project presentation are in the .docx and .mp4 files in this repository.
 
